@@ -16,3 +16,5 @@ improve on it
 
 * compare the result of the paper with the existing algorithm- see what special results they have done
 if u can change it so that it accept two styles and synthesis the result
+  
+  ![](https://github.com/RediIssac/Neural-Style-transfer/blob/main/cool%20results/merp%20(3).png?raw=true)
